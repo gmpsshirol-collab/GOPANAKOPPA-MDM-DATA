@@ -1,0 +1,37 @@
+{
+  "name": "ಗೋಪನಕೊಪ್ಪ — ದಿನದ ಮಾಹಿತಿ",
+  "short_name": "ಗೋಪನಕೊಪ್ಪ",
+  "description": "ಗೋಪನಕೊಪ್ಪ ಶಾಲೆಯ ಬಿಸಿಯೂಟ ದಿನದ ಮಾಹಿತಿ",
+  "lang": "kn",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#1f423a",
+  "background_color": "#f6f4ee",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
